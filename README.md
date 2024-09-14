@@ -1,5 +1,5 @@
 # Welcome to TruderCorp
 
-## Projects: TruderLearn
+## Projects: check them out
 
-### TruderLearn is currently in beta and only open to devs / owners.
+### im going to make them much better 
